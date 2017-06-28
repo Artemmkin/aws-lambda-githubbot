@@ -1,0 +1,8 @@
+{
+  "org":  "mycompany",
+  "project": "Backlog",
+  "column": "TODO",
+  "token": "",
+  "labels": ["help wanted"],
+  "media_type": "application/vnd.github.inertia-preview+json"
+}
