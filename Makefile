@@ -1,6 +1,6 @@
 PROJECT = githubotik
 VIRTUAL_ENV = env
-FUNCTION_NAME = githubotik # change it to the name of an aws lambda function you create.
+FUNCTION_NAME = Githubotik # change it to the name of an aws lambda function you create.
 													 # This is used to update it using this Makefile
 
 # default commands

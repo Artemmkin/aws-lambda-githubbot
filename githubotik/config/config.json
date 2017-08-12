@@ -1,7 +1,9 @@
 {
-  "org":  "mycompany",
+  "org":  "githubotik-inc",
   "project": "Backlog",
-  "column": "TODO",
+  "column_for_open": "TODO",
+  "column_in_progress": "WIP",
+  "column_for_closed": "DONE",
   "token": "",
   "labels": ["help wanted"],
   "media_type": "application/vnd.github.inertia-preview+json"
